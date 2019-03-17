@@ -1,0 +1,4 @@
+.btn-danger{
+	background-color: yellow;
+}
+.btn-danger:hover{background-color: pink;}
